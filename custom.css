@@ -6,13 +6,6 @@
     background-size: cover;
     background-position: center;
 }
-/* .hero{
-    width: 100%;
-    height: 630px;
-    background-image: url(../lab-task/images/hero1.jpg);
-    background-position: center;
-    background-size: cover;    
-} */
 
 
 .navbar{
@@ -70,13 +63,6 @@
     
 }
 
-/* .form{
-    background-image: url(../lab-task/images/mimi-thian-vdXMSiX-n6M-unsplash.jpg);
-    background-position: center;
-    background-size: cover;
-    position: relative;
-} */
-
 .card img{
     height: 100px;
     width: 100px;
@@ -115,7 +101,3 @@ ul li{
 .form h2{
     color: white;
 }
-/* .form .btn{
-    border: solid red;
-    margin: 50px;
-} */
